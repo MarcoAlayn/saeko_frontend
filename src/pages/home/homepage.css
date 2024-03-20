@@ -1,0 +1,7 @@
+.custom-button {
+    transition: transform 0.3s ease;
+  }
+  
+  .custom-button:hover {
+    transform: scale(1.1);
+  }
